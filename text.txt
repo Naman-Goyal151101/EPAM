@@ -1,2 +1,6 @@
 Hello Naman 
 How are you?
+merge conflict 
+git reset and revert
+
+head~1 ->goes to last commit 
