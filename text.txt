@@ -7,3 +7,5 @@ head~1 ->goes to last commit
 
 
 git log --oneline
+
+git gui&
